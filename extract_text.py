@@ -15,7 +15,12 @@ def main():
     app = FirecrawlApp(api_key=api_key)
 
     # direct_url = "https://fatimekerimli.wordpress.com/wp-content/uploads/2018/12/ernest_hemingway-the_old_man_and_the_sea.pdf"
-    direct_url = "https://sci-hub.se/https://doi.org/10.1103/RevModPhys.29.325"
+    # direct_url = "https://www.gutenberg.org/files/29785/29785-pdf.pdf"
+    # direct_url = "https://www.isinj.com/mt-usamo/Functional%20Equations%20and%20How%20To%20Solve%20Them%20-%20Christopher%20G.%20Small.pdf"
+    # direct_url = "https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/mitres_18_001_f17_ch10.pdf"
+    # direct_url = "https://arxiv.org/pdf/2106.14881"
+    # direct_url = "https://www.hyvonline.com/papers/mcom-2-sem-statistical-analysis-216-may-2019.pdf"
+    direct_url = "https://www.thephysicsteacher.ie/Formulae%20and%20Tables%20Book.pdf"
 
 
     # file_id = "1YFxvTdoN7JyqIgJKN611J93jBSYlALxL"
